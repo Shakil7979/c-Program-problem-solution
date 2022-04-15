@@ -1,6 +1,9 @@
 #include<stdio.h>
  
 int main() {
+ 
+ printf("Yeah Habibi"); 
+ 
    char s1[100], s2[100];
    int i;
  
@@ -17,4 +20,8 @@ int main() {
    printf("\nCopied String is %s ", s2);
  
    return (0);
+ 
+ 
 }
+
+
